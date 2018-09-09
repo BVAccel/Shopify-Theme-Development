@@ -8,7 +8,7 @@
 # ---
 # `theme download --env=production`
 # `theme watch --env=develop`
-# `theme upload --env=test`
+# `theme deploy --env=test`
 # 
 # -----------------------------------------
 
